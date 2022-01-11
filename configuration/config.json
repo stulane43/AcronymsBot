@@ -1,0 +1,13 @@
+{
+    "botToken": "",
+    "userToken": "",
+    "appToken": "",
+    "signingSecret": "",
+	"approvedUsers": [
+		"",
+        ""
+    ],
+    
+    "alertWebhook": "",
+    "unauthorizedChannel": ""
+}

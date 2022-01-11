@@ -1,0 +1,35 @@
+{
+    "AD": {
+        "definition": "Active Directory",
+        "description": "Directory service that Microsoft developed for Windows domain networks."
+    },
+    "ADFS": {
+        "definition": "Active Directory Federation Services",
+        "description": "Used for Single Sign On"
+    },
+    "ASP": {
+        "definition": "Action Server Pages",
+        "description": "Microsoft's first server side script engine for dynamically generated web page."
+    },
+    "BA": {
+        "definition": "Business Analyst",
+        "description": "Person who translates business requirments into functional and technical requirements."
+    },
+    "CC": {
+        "definition": "Credit Card"
+    },
+    "CD": {
+        "definition": "Continuous Delivery/Deployment."
+    },
+    "WRT": {
+        "definition": "Work Recovery Time"
+    },
+    "WSUS": {
+        "definition": "Windows Server Update Services",
+        "description": "a computer program developed by Microsoft Corporation that enables administrators to manage the distribution of updates and hot fixes."
+    },
+    "XML": {
+        "definition": "Extensible Markup Language",
+        "description": "A markup language that defines a set of rules for encoding documents in a format which is both human readable and machine readable."
+    }
+}
